@@ -1,0 +1,3 @@
+[submodule "Linear-Algebra-Done-Right"]
+	path = Linear-Algebra-Done-Right
+	url = https://github.com/yabsed/Linear-Algebra-Done-Right.git
