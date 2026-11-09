@@ -4,3 +4,6 @@
 [submodule "algorithms"]
 	path = algorithms
 	url = https://github.com/yabsed/algorithms.git
+[submodule "german"]
+	path = german
+	url = https://github.com/yabsed/german.git
